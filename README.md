@@ -1,3 +1,3 @@
 # KNearestNeighbour
 
-K-nearest Neighbour algorithm in pure C++
+The K-nearest Neighbour algorithm is written entirely in C++. I'm doing this for my own academic objectives, therefore the algorithm may contain some inconsistencies.
